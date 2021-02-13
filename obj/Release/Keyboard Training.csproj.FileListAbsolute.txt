@@ -1,0 +1,27 @@
+C:\Users\koshc\source\repos\Keyboard Training\bin\Release\Keyboard Training.exe.config
+C:\Users\koshc\source\repos\Keyboard Training\bin\Release\Keyboard Training.exe
+C:\Users\koshc\source\repos\Keyboard Training\bin\Release\Keyboard Training.pdb
+C:\Users\koshc\source\repos\Keyboard Training\bin\Release\ru\Keyboard Training.resources.dll
+C:\Users\koshc\source\repos\Keyboard Training\obj\Release\Keyboard Training.csprojAssemblyReference.cache
+C:\Users\koshc\source\repos\Keyboard Training\obj\Release\KeyboardTraining.AboutProgram.resources
+C:\Users\koshc\source\repos\Keyboard Training\obj\Release\KeyboardTraining.Author.resources
+C:\Users\koshc\source\repos\Keyboard Training\obj\Release\KeyboardTraining.MainForm.resources
+C:\Users\koshc\source\repos\Keyboard Training\obj\Release\KeyboardTraining.MainSettings.resources
+C:\Users\koshc\source\repos\Keyboard Training\obj\Release\KeyboardTraining.Forms.StartLogo.resources
+C:\Users\koshc\source\repos\Keyboard Training\obj\Release\KeyboardTraining.Properties.Resources.resources
+C:\Users\koshc\source\repos\Keyboard Training\obj\Release\KeyboardTraining.Author.ru.resources
+C:\Users\koshc\source\repos\Keyboard Training\obj\Release\Keyboard Training.csproj.GenerateResource.cache
+C:\Users\koshc\source\repos\Keyboard Training\obj\Release\Keyboard Training.csproj.CoreCompileInputs.cache
+C:\Users\koshc\source\repos\Keyboard Training\obj\Release\ru\Keyboard Training.resources.dll
+C:\Users\koshc\source\repos\Keyboard Training\obj\Release\Keyboard Training.exe
+C:\Users\koshc\source\repos\Keyboard Training\obj\Release\Keyboard Training.pdb
+C:\Users\koshc\source\repos\Keyboard Training\bin\Release\en-US\Keyboard Training.resources.dll
+C:\Users\koshc\source\repos\Keyboard Training\obj\Release\KeyboardTraining.GStatistics.resources
+C:\Users\koshc\source\repos\Keyboard Training\obj\Release\KeyboardTraining.TextSettings.resources
+C:\Users\koshc\source\repos\Keyboard Training\obj\Release\KeyboardTraining.AboutProgram.ru.resources
+C:\Users\koshc\source\repos\Keyboard Training\obj\Release\KeyboardTraining.Author.en-US.resources
+C:\Users\koshc\source\repos\Keyboard Training\obj\Release\KeyboardTraining.GStatistics.ru.resources
+C:\Users\koshc\source\repos\Keyboard Training\obj\Release\KeyboardTraining.MainForm.ru.resources
+C:\Users\koshc\source\repos\Keyboard Training\obj\Release\KeyboardTraining.MainSettings.ru.resources
+C:\Users\koshc\source\repos\Keyboard Training\obj\Release\KeyboardTraining.TextSettings.ru.resources
+C:\Users\koshc\source\repos\Keyboard Training\obj\Release\en-US\Keyboard Training.resources.dll
