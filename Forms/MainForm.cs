@@ -293,10 +293,6 @@ namespace KeyboardTraining
             }
         }
 
-        private void MainForm_Load(object sender, EventArgs e)
-        {
-
-        }
 
         private void globalStatisticsToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -304,6 +300,14 @@ namespace KeyboardTraining
             gStatistics.ShowDialog();
             gStatistics.Dispose();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            GStatistics gStatistics = new GStatistics();
+            gStatistics.ShowDialog();
+            gStatistics.Dispose();
+        }
+
 
         private void SessionStats()
         {
